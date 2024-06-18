@@ -44,11 +44,11 @@
 
 Текст индексной страницы, написанной мной в ConfigMap и текст индексной страницы из контейнера пода одинаковы, следовательно она взята именно из содержимого ConfigMap.
 
-5. Ссылка на манифест Deployment - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/deployment.yaml
+5. Ссылка на манифест Deployment - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/deployment.yaml
 
-   Ссылка на манифест Service - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/service.yaml
+   Ссылка на манифест Service - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/service.yaml
 
-   Ссылка на манифест ConfigMap - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/configmap.yaml
+   Ссылка на манифест ConfigMap - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/configmap.yaml
 
    ------
 
@@ -84,12 +84,12 @@
 
 ![img_8](IMG/img_8.png)
 
-5. Ссылка на манифест Deployment - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_deployment.yaml
+5. Ссылка на манифест Deployment - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/nginx_deployment.yaml
 
-   Ссылка на манифест ConfigMap - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_configmap.yaml
+   Ссылка на манифест ConfigMap - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/nginx_configmap.yaml
 
-   Ссылка на манифест Service - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_service.yaml
+   Ссылка на манифест Service - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/nginx_service.yaml
 
-   Ссылка на манифест Secret - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_secret.yaml
+   Ссылка на манифест Secret - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/nginx_secret.yaml
 
-   Ссылка на манифест Ingress - https://github.com/DemoniumBlack/fedorchukds-devops-33-43/blob/main/SRC/nginx_ingress.yaml
+   Ссылка на манифест Ingress - https://github.com/RikLedger/12-Kubernetes-08-hw/blob/main/SRC/nginx_ingress.yaml
