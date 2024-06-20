@@ -1,5 +1,13 @@
 # Домашнее задание к занятию «Конфигурация приложений» - `Горбачёв Олег`
 
+### Инструменты и дополнительные материалы, которые пригодятся для выполнения задания
+
+1. [Описание](https://kubernetes.io/docs/concepts/configuration/secret/) Secret.
+2. [Описание](https://kubernetes.io/docs/concepts/configuration/configmap/) ConfigMap.
+3. [Описание](https://github.com/wbitt/Network-MultiTool) Multitool.
+
+------
+
 ### Задание 1. Создать Deployment приложения и решить возникшую проблему с помощью ConfigMap. Добавить веб-страницу
 
 1. Создать Deployment приложения, состоящего из контейнеров nginx и multitool.
